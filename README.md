@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShiakiShiroma
 - 👀 I’m interested in taking photos!
-- 🌱 I’m currently learning English and some programing langages (c++,php,and more) 
+- 🌱 I’m currently learning English and some programing langages (c++,php,python,and more) 
 - nice to meet you !
 
 <!---
